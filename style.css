@@ -317,9 +317,10 @@ input::placeholder{
   margin-top: 20px;
 }
 .find{
-  color: rgb(138, 138, 138);
+  color: rgb(88, 88, 88);
   font-size: 28px;
   font-weight: bold;
+  margin-bottom: 45px;
 }
 
 /* Responsive*/
