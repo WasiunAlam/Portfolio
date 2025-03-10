@@ -78,7 +78,7 @@ nav{
 
 .hero-section{
   width: 100%;
-  background-image: url("heroBackground.jpg");
+  background-image: url("/Images/heroBackground.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
